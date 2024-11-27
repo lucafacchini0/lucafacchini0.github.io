@@ -7,7 +7,7 @@ image:
     images/SwissFlag.jpg
 ---
 
-When you think about Switzerland 🇨🇭, what comes to mind? Chocolate, breathtaking mountains, luxury watches, right? And while all of that is true, there’s another side of Switzerland that’s just as impressive: it’s one of the best places in the world to work in tech. Whether you’re dreaming of coding cutting-edge software, diving into AI, or even launching your own startup, Switzerland has everything you could ask for.
+When you think about Switzerland, what comes to mind? Chocolate, breathtaking mountains, luxury watches, right? And while all of that is true, there’s another side of Switzerland that’s just as impressive: it’s one of the best places in the world to work in tech. Whether you’re dreaming of coding cutting-edge software, diving into AI, or even launching your own startup, Switzerland has everything you could ask for.
 
 ### Living in the Swiss Dream
 First of all, let’s talk about what it’s like to live here. Switzerland is known for being ridiculously well-organized and safe. Imagine walking through cities where everything feels perfectly in place—clean streets, efficient public transport, and people who respect rules (like really respect them). It’s the kind of place where you can focus entirely on your work and your goals without worrying about chaotic bureaucracy or security issues. On top of that, the quality of life is just amazing. We’re talking about fresh mountain air, healthcare that’s among the best in the world, and neighborhoods where you don’t just feel safe—you are safe. And don’t even get me started on the views. Whether you’re in Zurich, Geneva, or Lausanne, the backdrop of the Alps is the kind of thing that can make even a stressful day feel a bit lighter.
@@ -29,4 +29,4 @@ But it’s not just about work. Living in Switzerland means you’ll be surround
 ### So...?
 So, why Switzerland? Because it’s more than just a place to work. It’s a place where you can thrive, surrounded by innovation, natural beauty, and an incredible quality of life. Whether you’re just starting out in tech or you’re looking to take your career to the next level, Switzerland has everything you need—and then some. Plus, where else can you debug code in the morning and snowboard in the afternoon?
 
-Es lebe die Schweiz! 🇨🇭
+Es lebe die Schweiz!
