@@ -4,7 +4,7 @@ title:  "Why Switzerland is the perfect place to build your Tech Career"
 categories: [Blog]
 tags: [curiosity]
 image:
-    images/SwissFlag.png
+    images/SwissFlag.jpg
 ---
 
 When you think about Switzerland 🇨🇭, what comes to mind? Chocolate, breathtaking mountains, luxury watches, right? And while all of that is true, there’s another side of Switzerland that’s just as impressive: it’s one of the best places in the world to work in tech. Whether you’re dreaming of coding cutting-edge software, diving into AI, or even launching your own startup, Switzerland has everything you could ask for.
