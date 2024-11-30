@@ -3,6 +3,8 @@ layout: post
 title:  "Introduction to Docker"
 categories: [Blog]
 tags: [docker]
+image:
+    images/Docker.jpg
 ---
 
 # Introduction to Docker
